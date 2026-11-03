@@ -1,0 +1,6 @@
+,LR house/trance,KNN house/trance,LR house/classical,KNN house/classical
+Feilrate,0.1603,0.1429,0.0214,0.0393
+Sensitivitet,0.8611,0.9097,1.0,1.0
+Spesifisitet,0.8182,0.8042,0.9538,0.9154
+p_hat,0.8397,0.8571,0.9786,0.9607
+Z,11.5105,12.1008,16.0161,15.4184
