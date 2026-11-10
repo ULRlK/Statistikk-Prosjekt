@@ -1,0 +1,10 @@
+,LR house/hip-hop,KNN house/hip-hop,LR house/trance,KNN house/trance
+Feilrate,0.2027,0.1791,0.1603,0.1429
+Sensitivitet,0.8121,0.8591,0.8611,0.9097
+Spesifisitet,0.7823,0.7823,0.8182,0.8042
+p_hat,0.7973,0.8209,0.8397,0.8571
+Z,10.23,11.04,11.51,12.1
+p-verdi,7.292e-25,1.178e-28,5.841e-31,5.231e-34
+p0 (største klasse),0.5041,0.5041,0.5,0.5
+Z mot p0,10.09,10.9,11.51,12.1
+p-verdi mot p0,3.042e-24,5.497e-28,5.841e-31,5.231e-34
